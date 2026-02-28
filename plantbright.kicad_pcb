@@ -1631,7 +1631,7 @@
 	(footprint "kicad-dfplayermini:dfplayer"
 		(layer "F.Cu")
 		(uuid "41f6a119-0264-45ed-beea-cf03d3bedec6")
-		(at 194.28005 72.5 90)
+		(at 113.53005 69.25 90)
 		(property "Reference" "U2"
 			(at 0 2.05 90)
 			(unlocked yes)
@@ -2637,8 +2637,7 @@
 		(property "Value" "XIAO-ESP32-C6"
 			(at 0 0 90)
 			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
+			(layer "F.SilkS")
 			(uuid "f7d9f6a0-5766-44ce-b4ff-c255ce600853")
 			(effects
 				(font
