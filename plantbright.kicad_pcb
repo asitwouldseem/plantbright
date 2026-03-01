@@ -2270,7 +2270,7 @@
 			(at 1.25 -3.55 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "ca27ff29-8ffc-4511-8b55-7cba36a73786")
+			(uuid "6a5bc408-c614-4487-a8d1-ff48c05a5324")
 			(effects
 				(font
 					(size 1 1)
@@ -2281,7 +2281,7 @@
 		(property "Value" "5V IN"
 			(at 1.1 7.3 0)
 			(layer "F.SilkS")
-			(uuid "7445ab6d-1daf-454d-9e9b-e0ff2065fe4e")
+			(uuid "5e784ce3-c6ce-428a-8b24-56e72e110cbc")
 			(effects
 				(font
 					(size 1 1)
@@ -2294,7 +2294,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ab81a14d-8867-46dd-8fb9-c83a46d63af7")
+			(uuid "4e3abe8f-f777-4abe-9a6d-d33376f46844")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2306,7 +2306,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "daa7b37f-9812-4f77-a57e-54e19cf23b02")
+			(uuid "0f4c24d5-807f-41fc-8fbf-0c066a37dfb5")
 			(effects
 				(font
 					(size 1.27 1.27)
