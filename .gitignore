@@ -40,3 +40,4 @@ fp-info-cache
 *.kicad_prl
 .DS_Store
 /libraries
+plantbright.kicad_dru
