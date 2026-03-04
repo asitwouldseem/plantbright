@@ -5802,8 +5802,8 @@
 		)
 	)
 	(gr_rect
-		(start 157.7 90.4)
-		(end 168 109.3)
+		(start 157.45 89.25)
+		(end 167.75 108.15)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -5948,7 +5948,7 @@
 		)
 	)
 	(gr_text "FOUR CHANNEL \nCONSTANT VOLTAGE\nDRIVER BOARD\nVER. 1.3"
-		(at 162.85 99.85 90)
+		(at 162.6 98.7 90)
 		(layer "B.SilkS")
 		(uuid "62a2063d-81ce-4111-b49b-e79f2ee8b40b")
 		(effects
